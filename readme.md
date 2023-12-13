@@ -46,4 +46,4 @@ Dando continuidade ao tema do exemplo 5, exploramos os "operadores de comparaç�
 
 Uma maneira de acessar e manipular elementos é através do método getElementsByTagName(). Ao utilizar esse método, podemos especificar a tag desejada entre parênteses, como no exemplo 'p'. Podemos então selecionar uma tag específica 'p' adicionando colchetes e indicando a ordem em que ela aparece no documento (por exemplo, [0] para a primeira tag 'p'). Posteriormente, é possível manipular o conteúdo ou atributos dessa tag com base na estrutura em árvore do DOM. Um exemplo prático seria: window.document.write('p')[0] para acessar e manipular a primeira tag 'p'."
 
-Outras formas: é por ID, NOME, CLASSE e SELETOR.
+Outras formas: é por ID, NOME, CLASS e SELETOR. A lógica é a mesma, o que muda é o método onde é tag muda para 'id' ou 'clas'.
