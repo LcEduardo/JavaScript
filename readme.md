@@ -1,7 +1,7 @@
 # Iniciando Os Estudos Em JavaScript
 Meus primeiros passos em JavaScript foi com base no livro [JavaScript: O Guia Definitivo](https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X/ref=sr_1_4?adgrpid=1148990309509643&hvadid=71812059845248&hvbmt=be&hvdev=c&hvlocphy=147852&hvnetw=s&hvqmt=e&hvtargid=kwd-71812410690954%3Aloc-20&hydadcr=5629_13210324&keywords=livro+de+javascript&qid=1701191624&sr=8-4&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d), junto com a playlist do [curso em vídeo](https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm).
 
-## Passo 1:
+## PASSO 1:
 
 ### EX001:
 Meu primeiro passo é criar um arquivo básico de html e fazer algumas modificações como style, título e parágrafo (básico de HTML e CSS). Seguindo, na parte do body eu adiciono a tag 'script' e dentro dela começo a desenvolver meus códigos js.
@@ -9,7 +9,7 @@ Meu primeiro passo é criar um arquivo básico de html e fazer algumas modifica�
 #### alert / prompt / confirm
 O primeiro foi um 'alert' onde coloco uma janela com uma mensagem que ira aparecer quando rodar minha página web. Logo em seguida, uso o comando 'confirm' que serve para fazer uma pergunta e assim você responde ok ou cancela. E por fim, o comando 'prompt' que realiza uma pergunta, mas possibilita eu colocar uma resposta.
 
-## Passo 2:
+## PASSO 2:
 
 ### EX001:
 Utilizando o mesmo código do ex001. Só que agorá iremos salver a nossa resposta que vem do prompt.
@@ -36,13 +36,13 @@ No exemplo 5, exploramos EXPRESSÕES RELACIONAIS relacionadas aos "operadores de
 
 Dando continuidade ao tema do exemplo 5, exploramos os "operadores de comparação". Aqui encontramos, os operadores 'maior que (>)', 'menor que (<)', 'maior ou igual a (>=)', 'menor ou igual a (<=)'.
  
- ## DOM:
+## PASSO 3:
  Entendendo DOM - Document Object Model...
 
- ### EX001:
+### EX001:
  "O DOM (Modelo de Objeto de Documento) representa um documento da página web por meio de nós e objetos, organizados em uma estrutura em árvore. Essa estrutura permite o acesso e a manipulação de elementos HTML utilizando JavaScript.
 
- #### Selecionando:
+#### Selecionando:
 
 Uma maneira de acessar e manipular elementos é através do método getElementsByTagName(). Ao utilizar esse método, podemos especificar a tag desejada entre parênteses, como no exemplo 'p'. Podemos então selecionar uma tag específica 'p' adicionando colchetes e indicando a ordem em que ela aparece no documento (por exemplo, [0] para a primeira tag 'p'). Posteriormente, é possível manipular o conteúdo ou atributos dessa tag com base na estrutura em árvore do DOM. Um exemplo prático seria: window.document.write('p')[0] para acessar e manipular a primeira tag 'p'."
 
