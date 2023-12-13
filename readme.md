@@ -47,3 +47,11 @@ Dando continuidade ao tema do exemplo 5, exploramos os "operadores de comparaç�
 Uma maneira de acessar e manipular elementos é através do método getElementsByTagName(). Ao utilizar esse método, podemos especificar a tag desejada entre parênteses, como no exemplo 'p'. Podemos então selecionar uma tag específica 'p' adicionando colchetes e indicando a ordem em que ela aparece no documento (por exemplo, [0] para a primeira tag 'p'). Posteriormente, é possível manipular o conteúdo ou atributos dessa tag com base na estrutura em árvore do DOM. Um exemplo prático seria: window.document.write('p')[0] para acessar e manipular a primeira tag 'p'."
 
 Outras formas: é por ID, NOME, CLASS e SELETOR. A lógica é a mesma, o que muda é o método onde é tag muda para 'id' ou 'clas'.
+
+### EX002:
+Explorando mais o DOM, entramos no fascinante mundo dos eventos. É nesse contexto que podemos atribuir funcionalidades a eventos como o mouse, ou qualquer outro evento disponível em [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element#mouse_events). No exemplo 002, ao utilizar o seletor 'id' em conjunto com FUNÇÕES em JavaScript, conseguimos programar a execução de eventos somente quando o mouse interage com uma região específica. Em outras palavras, a ação não ocorrerá automaticamente após o carregamento da página web.
+
+Destaca-se que empregamos o método 'addEventListener()' para estabelecer a conexão entre a função definida em JavaScript e o HTML, proporcionando uma abordagem eficiente para a interação dinâmica entre o usuário e a página.
+
+### EX003:
+Para aprofundar nossa compreensão sobre eventos, exploramos suas funcionalidades ao criar uma calculadora simples que realiza exclusivamente operações de soma. Nesse contexto, aplicamos conceitos fundamentais, como o uso de selecionadores, tags específicas como 'input' e 'div', e a implementação de funções em JavaScript. Essa prática proporcionou uma compreensão mais sólida da interação dinâmica entre elementos HTML e scripts, permitindo a execução de ações específicas, como a adição de valores em resposta a eventos do usuário.
