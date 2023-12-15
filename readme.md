@@ -55,3 +55,12 @@ Destaca-se que empregamos o método 'addEventListener()' para estabelecer a cone
 
 ### EX003:
 Para aprofundar nossa compreensão sobre eventos, exploramos suas funcionalidades ao criar uma calculadora simples que realiza exclusivamente operações de soma. Nesse contexto, aplicamos conceitos fundamentais, como o uso de selecionadores, tags específicas como 'input' e 'div', e a implementação de funções em JavaScript. Essa prática proporcionou uma compreensão mais sólida da interação dinâmica entre elementos HTML e scripts, permitindo a execução de ações específicas, como a adição de valores em resposta a eventos do usuário.
+
+## PASSO 4:
+Neste quarto passo da nossa jornada, exploramos as estruturas de condição. Nos exemplos ex001 e ex002, estudamos a instrução condicional 'if' e a aplicamos em ambos os casos. A estrutura de condição 'if' é fundamental na programação e permite que um bloco de código seja executado apenas se uma condição específica for verdadeira. Isso possibilita a criação de lógica de ramificação, onde diferentes ações podem ser tomadas dependendo das circunstâncias.
+
+### EX003: 
+Com base no exemplo 001, desenvolvemos uma página web que solicita que você insira uma velocidade e, em seguida, utiliza a estrutura condicional 'if' para verificar se o limite de velocidade foi ultrapassado ou não. Vale ressaltar que empregamos tags como 'input' para adicionar o campo de texto e para verificar o resultado com um simples clique.
+
+### EX004:
+Seguindo a mesma abordagem do exercício anterior, utilizamos como ponto de partida o ex002. Neste contexto, questionamos sobre o país de origem da pessoa. Se a resposta for Brasil ou EUA (considerando apenas essas duas opções), será exibido que a pessoa é brasileira, por exemplo, e em seguida a bandeira do país correspondente será apresentada. 
