@@ -59,6 +59,12 @@ Para aprofundar nossa compreensão sobre eventos, exploramos suas funcionalidade
 ## PASSO 4:
 Neste quarto passo da nossa jornada, exploramos as estruturas de condição. Nos exemplos ex001 e ex002, estudamos a instrução condicional 'if' e a aplicamos em ambos os casos. A estrutura de condição 'if' é fundamental na programação e permite que um bloco de código seja executado apenas se uma condição específica for verdadeira. Isso possibilita a criação de lógica de ramificação, onde diferentes ações podem ser tomadas dependendo das circunstâncias.
 
+### EX001:
+Aqui, desenvolvemos uma maneira de calcular se o valor adicionado à variável é maior que 60. Se essa condição for verdadeira, a estrutura condicional 'if' exibirá uma mensagem indicando que a multa foi aplicada devido ao excesso de velocidade.
+
+### EX002:
+Neste exercício, utilizamos a estrutura 'if' para determinar de qual país você é e, consequentemente, verificar se é brasileiro ou americano. 
+
 ### EX003: 
 Com base no exemplo 001, desenvolvemos uma página web que solicita que você insira uma velocidade e, em seguida, utiliza a estrutura condicional 'if' para verificar se o limite de velocidade foi ultrapassado ou não. Vale ressaltar que empregamos tags como 'input' para adicionar o campo de texto e para verificar o resultado com um simples clique.
 

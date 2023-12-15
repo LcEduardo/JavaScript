@@ -25,9 +25,11 @@
             var suaNacionalidade = window.document.getElementById("result")
             var pais = String(ptext.value)
             if(pais == "Brasil"){
-                suaNacionalidade.innerHTML += "<p>Você é Brasileiro!!!</p> <p><img src='https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg' alt='Bandeira do Brasil'> </p>"
+                suaNacionalidade.innerHTML += "<p>Você é <strong>Brasileiro!!!</strong></p> <p><img src='https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg' alt='Bandeira do Brasil'> </p>"
             }else if(pais == "EUA") {
-                suaNacionalidade.innerHTML += "<p>Você é Americano!!!</p> <p><img src='https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg' alt='Bandeira Americana'></p>"
+                suaNacionalidade.innerHTML += "<p>Você é <strong>Americano!!!</strong></p> <p><img src='https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg' alt='Bandeira Americana'></p>"
+            }else {
+                suaNacionalidade.innerHTML += `O país ${pais} não foi adicionado ainda ou você digitou algo errado.`
             }
         }
     </script>
