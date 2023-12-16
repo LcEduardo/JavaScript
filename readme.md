@@ -70,3 +70,12 @@ Com base no exemplo 001, desenvolvemos uma página web que solicita que você in
 
 ### EX004:
 Seguindo a mesma abordagem do exercício anterior, utilizamos como ponto de partida o ex002. Neste contexto, questionamos sobre o país de origem da pessoa. Se a resposta for Brasil ou EUA (considerando apenas essas duas opções), será exibido que a pessoa é brasileira, por exemplo, e em seguida a bandeira do país correspondente será apresentada. 
+
+### EX005:
+No exercício 5, analisamos a idade de um indivíduo e determinamos se ele deve votar ou não, seguindo o sistema brasileiro. A abordagem utilizada envolveu a estrutura condicional composta, combinando o uso do if e else.
+
+### EX006: 
+No exercício 6, empregamos novamente a estrutura condicional composta. No entanto, é crucial observar um detalhe significativo, uma vez que utilizamos a função 'new Date()' para obter a hora específica no momento da execução do código. O 'new Date()' é uma função em JavaScript que cria uma instância de data, permitindo a manipulação e obtenção de informações sobre datas e horas.
+
+### EX007:
+Aqui, analisamos mais uma estrutura de condição, mais especificamente o 'switch'. Esta estrutura é utilizada para lidar com valores mais específicos, como um único valor, ou seja, situações menos complexas. A importância do 'switch' reside no fato de que, em casos mais simples, ela é consideravelmente mais útil do que o if.
