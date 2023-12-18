@@ -79,3 +79,25 @@ No exercício 6, empregamos novamente a estrutura condicional composta. No entan
 
 ### EX007:
 Aqui, analisamos mais uma estrutura de condição, mais especificamente o 'switch'. Esta estrutura é utilizada para lidar com valores mais específicos, como um único valor, ou seja, situações menos complexas. A importância do 'switch' reside no fato de que, em casos mais simples, ela é consideravelmente mais útil do que o if.
+
+## PASSO 5:
+Nossa trajetoria agora se esbarra nas estruturas de repetição ou nos laços...
+
+### EX001:
+Nesse exercício, nos deparamos com um laço básico: 'while'. Sua ideia é que adicionemos uma condição e se essa for verdadeira a instrução será realizada até que a condição seja falsa e assim encerrando o laço.
+
+### EX002:
+No exercício 2 damos continuidade e observamos a estrtura 'do/while'. Sua diferena para estrutura anterior é que realizamos primeiro a instrução e depois verificamos a condição. 
+
+### EX003:
+Nesse terceiro exercício, aprendemos uma estrutura de repetição muito útil e utilizada: 'for'. Esse laço consegue testar três níveis de condição dentro de um parêntese apenas. Ele consegue declarar a variável, colocar uma condição para ela e ainda atribuir um valor.
+
+### EX004:
+Análisamos a intrução 'for/in'. Apesar de utilizar a palavra-chave 'for', é um tipo de laço completamente diferente do laço for normal: for (variável in objeto) {instrução};
+
+A variável - deve ser algo apropriado para o lado esquerdo de uma expressão de atribuição; O objeto - é uma expressão avaliada com um 'objeto'
+
+
+
+
+ 
