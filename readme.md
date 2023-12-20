@@ -97,6 +97,15 @@ Análisamos a intrução 'for/in'. Apesar de utilizar a palavra-chave 'for', é 
 
 A variável - deve ser algo apropriado para o lado esquerdo de uma expressão de atribuição; O objeto - é uma expressão avaliada com um 'objeto'
 
+## DESAFIO01:
+Aqui é onde colocamos a mão na massa e criamos um site com as funcionalidades aprendidas de javaScript anteriormente...
+
+### EX01:
+Nesse exercício criamos um site que verifica a hora local e mostra na tela uma imagem que trás semelhança com o horário determinado. Além do mais, o fundo do site (background) também muda de cor conforme o horario.
+
+### EX02:
+Seguindo a mesma estrutura do exerício anterior, criamos um site onde ele verifica idade da pessoa e mostra na tela uma mensagem, seguida de uma foto que represente a idade dela. 
+
 
 
 
