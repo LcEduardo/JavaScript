@@ -80,6 +80,15 @@ No exercício 6, empregamos novamente a estrutura condicional composta. No entan
 ### EX007:
 Aqui, analisamos mais uma estrutura de condição, mais especificamente o 'switch'. Esta estrutura é utilizada para lidar com valores mais específicos, como um único valor, ou seja, situações menos complexas. A importância do 'switch' reside no fato de que, em casos mais simples, ela é consideravelmente mais útil do que o if.
 
+## DESAFIO 01:
+Aqui é onde colocamos a mão na massa e criamos um site com as funcionalidades aprendidas de javaScript anteriormente...
+
+### EX01:
+Nesse exercício criamos um site que verifica a hora local e mostra na tela uma imagem que trás semelhança com o horário determinado. Além do mais, o fundo do site (background) também muda de cor conforme o horario.
+
+### EX02:
+Seguindo a mesma estrutura do exerício anterior, criamos um site onde ele verifica idade da pessoa e mostra na tela uma mensagem, seguida de uma foto que represente a idade dela. 
+
 ## PASSO 5:
 Nossa trajetoria agora se esbarra nas estruturas de repetição ou nos laços...
 
@@ -97,14 +106,11 @@ Análisamos a intrução 'for/in'. Apesar de utilizar a palavra-chave 'for', é 
 
 A variável - deve ser algo apropriado para o lado esquerdo de uma expressão de atribuição; O objeto - é uma expressão avaliada com um 'objeto'
 
-## DESAFIO01:
-Aqui é onde colocamos a mão na massa e criamos um site com as funcionalidades aprendidas de javaScript anteriormente...
+## DESAFIO 02:
+Os próximo desafio é criar um site no mesmo modelo do desafio 01, mas utilizando as estruturas de repetição...
 
-### EX01:
-Nesse exercício criamos um site que verifica a hora local e mostra na tela uma imagem que trás semelhança com o horário determinado. Além do mais, o fundo do site (background) também muda de cor conforme o horario.
-
-### EX02:
-Seguindo a mesma estrutura do exerício anterior, criamos um site onde ele verifica idade da pessoa e mostra na tela uma mensagem, seguida de uma foto que represente a idade dela. 
+### EX001:
+Criamos um site que faz contagem com base nos dados digitados. Ou seje, criamos uma área para interagir e outra para calcular.
 
 
 
