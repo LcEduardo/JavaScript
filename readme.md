@@ -110,7 +110,10 @@ A variável - deve ser algo apropriado para o lado esquerdo de uma expressão de
 Os próximo desafio é criar um site no mesmo modelo do desafio 01, mas utilizando as estruturas de repetição...
 
 ### EX001:
-Criamos um site que faz contagem com base nos dados digitados. Ou seje, criamos uma área para interagir e outra para calcular.
+Desenvolvemos um site que realiza contagens com base nos dados inseridos. Ou seja, implementamos uma área interativa e outra para realizar os cálculos. O ponto crucial reside no uso da tag 'input', proporcionando ao usuário três opções para seleção (início, fim e intervalo), tornando a experiência mais flexível e adaptável às preferências do usuário.
+
+### EX002:
+Seguindo a abordagem semelhante ao exemplo anterior (ex 001), desenvolvemos um site dedicado às tabuadas. Neste exercício, empregamos a estrutura de repetição 'for' para calcular as tabuadas, incorporando uma nuance em HTML. Introduzimos uma nova tag, denominada 'select', que cria um quadro interativo permitindo a seleção de valores por meio da tag 'option'. Esta última é gerada dinamicamente através de JavaScript, proporcionando uma experiência mais fluida e personalizada.
 
 
 
