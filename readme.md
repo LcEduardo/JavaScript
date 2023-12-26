@@ -115,6 +115,20 @@ Desenvolvemos um site que realiza contagens com base nos dados inseridos. Ou sej
 ### EX002:
 Seguindo a abordagem semelhante ao exemplo anterior (ex 001), desenvolvemos um site dedicado às tabuadas. Neste exercício, empregamos a estrutura de repetição 'for' para calcular as tabuadas, incorporando uma nuance em HTML. Introduzimos uma nova tag, denominada 'select', que cria um quadro interativo permitindo a seleção de valores por meio da tag 'option'. Esta última é gerada dinamicamente através de JavaScript, proporcionando uma experiência mais fluida e personalizada.
 
+## PASSO 6:
+Dando continuidade ao nosso estudo, verificamos agora as intruções de laços...
+
+### BREAK:
+A instrução 'break', quando utilizada isoladamente, tem o efeito de interromper imediatamente a execução do laço ou da condição. No exemplo apresentado, observamos o uso de uma rotulação em um bloco 'for', dentro do qual outro bloco 'for' é empregado. Ao utilizar a instrução 'break', conseguimos guiar o programa para sair tanto da instrução externa quanto da instrução interna.
+
+### CONTINUE: 
+Semelhante ao 'break', porém, em vez de sair de um laço, 'continue;' reinicia o laço na próxima iteração. Como exemplificado, a importância do 'continue' é evidente; caso não estivesse presente, a execução do console.log dentro da declaração 'if' seria realizada, resultando na exibição da mensagem que identifica o número como ímpar, mesmo que anteriormente tenha sido determinado como par. Desta forma, ele volta para o topo do laço e faz as verificações. 
+
+### RETURN:
+A instrução 'return' é restrita ao corpo de uma função, sendo utilizada para especificar o valor a ser retornado quando a função é chamada. No exemplo fornecido, a instrução 'return' é empregada para retornar o resultado da multiplicação da variável 'x'.
+
+### THROW:
+Uma exceção é um indicativo de que uma condição excepcional ou erro ocorreu. Em JavaScript, as exceções são acionadas durante erros em tempo de execução ou quando o programa explicitamente emite uma explicação por meio da instrução 'throw'. No exemplo fornecido, a instrução 'throw' é responsável por exibir uma mensagem de erro, como se fosse originada pelo próprio programa. Sem ela, o programa continuaria sua execução, potencialmente realizando cálculos inesperados.
 
 
 
