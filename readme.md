@@ -130,6 +130,29 @@ A instrução 'return' é restrita ao corpo de uma função, sendo utilizada par
 ### THROW:
 Uma exceção é um indicativo de que uma condição excepcional ou erro ocorreu. Em JavaScript, as exceções são acionadas durante erros em tempo de execução ou quando o programa explicitamente emite uma explicação por meio da instrução 'throw'. No exemplo fornecido, a instrução 'throw' é responsável por exibir uma mensagem de erro, como se fosse originada pelo próprio programa. Sem ela, o programa continuaria sua execução, potencialmente realizando cálculos inesperados.
 
+## PASSO 7:
+Prosseguindo com nossa caminhada, estudamos agora as váriaveis compostas...
 
+### Array: 
+Neste exemplo, estamos lidando com vetores ou arrays. Vetores são muito importantes em uma linguagem de programação, pois permitem agrupar várias variáveis dentro de uma única estrutura, atribuindo a cada uma um índice de identificação. Utilizá-los ajudará a organizar o seu código e a ter um maior controle sobre as variáveis associadas.
+
+Neste exemplo, aprendemos a ordenar um array utilizando 'num.sort()' e a adicionar um valor a um array por meio de 'num.push(1)'. Além disso, exploramos como identificar o índice de um elemento no vetor utilizando 'num.indexOf()'.
+
+### Vetores na tela:
+Aqui analisamos duas formas de exibir um vetor na tela de maneira mais apresentável. Por exemplo, ao utilizar a estrutura de repetição 'for', conseguimos exibir os elementos de um vetor da maneira desejada. Além disso, existe outro mecanismo facilitado pelo próprio JavaScript, que é o uso da estrutura 'for/in'.
+
+## PASSO 8:
+Dando contínuidade aos estudos, entramos em funções um campo muito util e amplo...
+
+### Function 01:
+Aqui, desenvolvemos uma função bastante simples chamada "soma()", à qual atribuímos dois parâmetros, n1 e n2, representando dois números. Quando a função é invocada com valores específicos (por exemplo, 2 e 2), esses valores são atribuídos aos parâmetros e o cálculo é realizado. A instrução 'return' indica o que a função deve retornar, no caso, a soma de n1 e n2 (return n1 + n2).
+
+ATENÇÃO: Dentro do parâmetro, atribuímos a eles o valor 0 (sem valor), pois caso apenas um parâmetro seja passado e outro não, o programa atribuirá o valor 0, evitando assim o cálculo de n1 + undefined, que resultaria em NaN, em vez de n1 + 0, que resultaria em n1.
+
+### Function 02:
+Na function02, criamos uma função para calcular o fatorial de um número, incorporando a diferença principal ao incluir um loop 'for' dentro da função. O ponto crucial reside na abordagem alternativa para realizar esse cálculo, a qual é apresentada na function03.
+
+### Function 03:
+Avançando significativamente em nossos estudos, nos deparamos com uma função recursiva. Em outras palavras, ela se invoca, conforme ilustrado pela relação do fatorial de n, que é equivalente a n * (n-1)!, como aplicado em nossa função. A essência de nossa implementação reside na expressão n * fatorial(n-1), refletindo fielmente o conceito apresentado.
 
  
