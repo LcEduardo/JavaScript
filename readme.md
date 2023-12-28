@@ -155,4 +155,13 @@ Na function02, criamos uma função para calcular o fatorial de um número, inco
 ### Function 03:
 Avançando significativamente em nossos estudos, nos deparamos com uma função recursiva. Em outras palavras, ela se invoca, conforme ilustrado pela relação do fatorial de n, que é equivalente a n * (n-1)!, como aplicado em nossa função. A essência de nossa implementação reside na expressão n * fatorial(n-1), refletindo fielmente o conceito apresentado.
 
+## Desafio 03:
+Criamos um site seguindo o mesmo modelo dos desafios anteriores. Neste projeto, destacou-se pela incorporação de funções e vetores adicionais, uma vez que conseguimos armazenar valores no vetor e utilizá-los posteriormente.
+
+## PASSO 9:
+Entramos em objetos, uma parte diferencial e importante na linguagem...
+
+### Object:
+Criamos nosso primeiro objeto e testamos algumas de suas funcionalidades, como a capacidade de adicionar itens, nomear os índices nos quais esses itens estão localizados, além da oportunidade de passarmos métodos por meio de funções dentro do próprio objeto. 
+
  
