@@ -1,0 +1,10 @@
+let num = [5, 2, 9, 3]
+console.log(num)
+console.log(num[0])
+console.log(`O tamanho do vetor é ${num.length}`)
+num.sort()
+console.log(num)
+num.push(1)
+console.log(num)
+let pos = num.indexOf(9)
+console.log(`O valor 9 está na posição ${pos}`)
